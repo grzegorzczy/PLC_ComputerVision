@@ -1,0 +1,7 @@
+venv_plc/
+venv/
+__pycache__/
+*.pyc
+*.pt
+*.pth
+.env
