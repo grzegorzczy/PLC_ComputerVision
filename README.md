@@ -80,7 +80,4 @@ Install from the Node-RED palette manager or via npm:
 - Add an HMI/dashboard for live status and logging.
 - Containerize the vision + integration components for easier deployment.
 
-## Author
 
-**Grzegorz Czyrniański** — Application Developer @ JUMO
-Industrial automation · Computer vision · Industry 4.0
