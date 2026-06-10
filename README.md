@@ -4,8 +4,6 @@ A real-time **Industry 4.0** demo that controls an industrial sorting process us
 
 The project demonstrates **IT/OT convergence**: the vision layer (Python) talks to the control layer (Siemens PLC) through a **Prosys OPC UA** server and a **Node-RED** bridge that translates OPC UA into the Siemens **S7** protocol.
 
-🎥 **Demo video:** https://www.youtube.com/watch?v=EkICnDUIZXo
-
 ## How it works
 
 ```mermaid
